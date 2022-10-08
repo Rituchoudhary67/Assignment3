@@ -1,0 +1,22 @@
+.heading {
+    color: white;
+    background-color: rgb(46, 215, 215);
+    text-align: center;
+    
+}
+.firstImg {
+    height: 150px;
+    width: 150px;
+    border: solid 10px;
+    border-color: rgb(55, 170, 170);
+    border-width: 7px;
+    margin-left: 5%;
+}
+.secondImg {
+    height: 150px;
+    width: 150px;
+    border: dashed 10px;
+    border-color: rgb(55, 170, 170);
+    border-width: 7px;
+    border-left: 5%;
+}
